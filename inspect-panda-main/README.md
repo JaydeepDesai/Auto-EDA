@@ -33,5 +33,3 @@ The tools it offers are:
    - Unique Values<br>
    - FuzzyWuzzy<be>
  - Powerful and Convenient visualizations
-
-Here's the link to the app: [Link](https://inspect-panda.streamlit.app/)
